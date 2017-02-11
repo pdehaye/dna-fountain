@@ -7,7 +7,7 @@ A. Download the repository and install the following python modules:
 4. tqdm
 5. logging
 6. scipy
-
+7. biopython
 
 B. Cythonize the code by running the following command in this folder:
 python setup.py build_ext --inplace
